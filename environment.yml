@@ -1,0 +1,10 @@
+name: MLenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - kaggle
+  - matplotlib
+  - notebook
+  - pandas
+  - tensorflow-gpu
